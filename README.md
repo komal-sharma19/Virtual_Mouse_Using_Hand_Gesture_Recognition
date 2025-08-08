@@ -2,6 +2,7 @@
 
 ### Hand Gesture Controlled Mouse using OpenCV & MediaPipe
 
+
 This project lets you **control your mouse cursor and perform actions** such as left click, right click, double click, and taking screenshots **just using your hand gestures** detected via webcam.
 
 The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for real-time hand landmark detection, and **PyAutoGUI** to control the mouse and keyboard functions.
