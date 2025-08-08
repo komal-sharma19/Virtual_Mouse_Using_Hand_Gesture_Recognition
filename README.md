@@ -17,6 +17,8 @@ The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for re
 - **Take Screenshot** gesture.
 - Works in **real time** with minimal latency.
 - Customizable gesture detection logic.
+
+## Left Click ##
 <p align="center">
   <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152311.png?raw=true" width="400" />
 </p>
@@ -25,6 +27,10 @@ The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for re
 </p>
 <p align="center">
   <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152338.png?raw=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152459.png?raw=true" width="400" />
 </p>
 
 
