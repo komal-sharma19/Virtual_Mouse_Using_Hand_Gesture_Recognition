@@ -22,13 +22,15 @@ The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for re
 <p align="center">
   <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152311.png?raw=true" width="400" />
 </p>
+## Right Click ##
 <p align="center">
   <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152325.png?raw=true" width="400" />
 </p>
+## Double Click ##
 <p align="center">
   <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152338.png?raw=true" width="400" />
 </p>
-
+## Screenshot Taken ##
 <p align="center">
   <img src="https://github.com/komal-sharma19/Virtual_Mouse_Using_Hand_Gesture_Recognition/blob/main/images/Screenshot%202025-08-08%20152459.png?raw=true" width="400" />
 </p>
