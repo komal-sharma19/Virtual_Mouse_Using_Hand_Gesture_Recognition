@@ -17,7 +17,7 @@ The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for re
 - **Take Screenshot** gesture.
 - Works in **real time** with minimal latency.
 - Customizable gesture detection logic.
-
+![Gesture Control Demo](images/demo.png)
 ---
 
 ## 🛠️ Technologies Used
