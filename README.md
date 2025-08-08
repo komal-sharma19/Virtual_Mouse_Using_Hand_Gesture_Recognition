@@ -52,6 +52,30 @@ The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for re
 - [pynput](https://pynput.readthedocs.io/en/latest/) – Mouse and keyboard control
 - [NumPy](https://numpy.org/) – Mathematical calculations
 
+## 🛠️ Libraries and Tech Stack Used
+
+### Programming Language
+- **Python 3.8+** – Main language used for development.
+
+### Computer Vision & Hand Tracking
+- **OpenCV** – For capturing webcam video frames and image processing.
+- **MediaPipe Hands** – Google's framework for real-time hand landmark detection and tracking.
+
+### Mouse and Keyboard Control
+- **PyAutoGUI** – High-level mouse and keyboard automation (clicks, double clicks, screenshots).
+- **pynput** – Low-level, precise mouse and keyboard control for smooth cursor movement and button hold actions.
+
+### Mathematical and Utility Libraries
+- **NumPy** – For numerical computations like calculating distances and angles between hand landmarks.
+
+### Optional / Others
+- (Add any other libraries if you use them, e.g., `random` for randomness, `time` for delays.)
+
+---
+
+This tech stack enables the project to capture live video, detect and interpret hand gestures, and translate them into accurate and responsive mouse control commands.
+
+
 
 
 ## ❓ Why Use Both PyAutoGUI and pynput?
