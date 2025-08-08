@@ -41,7 +41,6 @@ The implementation uses **OpenCV** for video capture, **MediaPipe Hands** for re
 
 
 
-
 ---
 
 ## 🛠️ Technologies Used
