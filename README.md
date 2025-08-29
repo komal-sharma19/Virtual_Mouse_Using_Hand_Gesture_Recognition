@@ -93,7 +93,7 @@ Using PyAutoGUI and pynput together allows this project to:
 This combination ensures **responsive, accurate, and feature-rich hand gesture control** for the virtual mouse.
 
 ---
-
+ 
 ## 🛠️ Libraries and Tech Stack Used
 
 ### Programming Language
