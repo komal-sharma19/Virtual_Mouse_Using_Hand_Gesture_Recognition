@@ -110,8 +110,6 @@ This combination ensures **responsive, accurate, and feature-rich hand gesture c
 ### Mathematical and Utility Libraries
 - **NumPy** – For numerical computations like calculating distances and angles between hand landmarks.
 
-### Optional / Others
-- (Add any other libraries if you use them, e.g., `random` for randomness, `time` for delays.)
 
 ---
 
